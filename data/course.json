@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural History and Criticism"
+    ],
+    [
+      "Fine Arts",
+      "Art History"
+    ]
+  ],
+  "legacy_uid": "52a4f9b1-6484-5f69-ee8b-3e1fe379c731",
+  "instructors": {
+    "content": [
+      "5cf93f98-5f34-b91c-e2c3-e6b5c1371dc5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "47ecfd61-8090-09e3-c1a3-7aeb5381e45b",
+    "website": "4-184-architectural-design-workshop-collage-method-and-form-spring-2004"
+  },
+  "course_title": "Architectural Design Workshop: Collage - Method and Form",
+  "hide_download": true,
+  "course_description": "This class investigates the theory, method, and form of collage. It studies not only the historical precedents for collage and their physical attributes, but the psychology and process that plays a part in the making of them. The class was broken into three parts, changing scales and methods each time, to introduce and study the rigor by which decisions were made in relation to the collage. The class was less about the making of art than the study of the processes by which art is made.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.184",
+  "course_image_thumbnail": {
+    "content": "3b459fa0-07e7-18af-4a15-be8534cedb92",
+    "website": "4-184-architectural-design-workshop-collage-method-and-form-spring-2004"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Image Gallery"
+  ],
+  "site_uid": "05c3f674-3cdc-4562-93b5-6f9fc03572c8",
+  "site_short_id": "4.184-spring-2004",
+  "site_url_path": "courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004",
+  "title": "Course Metadata"
+}
